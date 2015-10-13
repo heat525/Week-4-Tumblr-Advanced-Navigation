@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E12AD061BC9AED7000DBCE1 /* ComposeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E12AD051BC9AED7000DBCE1 /* ComposeViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		6E648EB81BC883C2002EBF0C /* TrendingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E648EB71BC883C2002EBF0C /* TrendingViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		6E89DFD61BC8731B00DD1500 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E89DFD51BC8731B00DD1500 /* AppDelegate.swift */; };
 		6E89DFD81BC8731B00DD1500 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E89DFD71BC8731B00DD1500 /* ViewController.swift */; };
 		6E89DFDB1BC8731B00DD1500 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E89DFD91BC8731B00DD1500 /* Main.storyboard */; };
@@ -14,6 +16,11 @@
 		6E89DFE01BC8731B00DD1500 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E89DFDE1BC8731B00DD1500 /* LaunchScreen.storyboard */; };
 		6E89DFEB1BC8731B00DD1500 /* Week_4_Tumblr_Advanced_NavigationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E89DFEA1BC8731B00DD1500 /* Week_4_Tumblr_Advanced_NavigationTests.swift */; };
 		6E89DFF61BC8731B00DD1500 /* Week_4_Tumblr_Advanced_NavigationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E89DFF51BC8731B00DD1500 /* Week_4_Tumblr_Advanced_NavigationUITests.swift */; };
+		6E89E0041BC8763B00DD1500 /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E89E0031BC8763B00DD1500 /* TabBarViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		6E97E2831BC9B8B400ADCAB1 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E97E2821BC9B8B400ADCAB1 /* HomeViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		6E97E2851BC9B8DA00ADCAB1 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E97E2841BC9B8DA00ADCAB1 /* SearchViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		6E97E2871BC9B93B00ADCAB1 /* AccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E97E2861BC9B93B00ADCAB1 /* AccountViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		6E9E156E1BC9C43300AF3A7B /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9E156D1BC9C43300AF3A7B /* LogInViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +41,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6E12AD051BC9AED7000DBCE1 /* ComposeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ComposeViewController.swift; sourceTree = "<group>"; };
+		6E648EB71BC883C2002EBF0C /* TrendingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrendingViewController.swift; sourceTree = "<group>"; };
 		6E89DFD21BC8731B00DD1500 /* Week 4 Tumblr Advanced Navigation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Week 4 Tumblr Advanced Navigation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E89DFD51BC8731B00DD1500 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6E89DFD71BC8731B00DD1500 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +56,11 @@
 		6E89DFF11BC8731B00DD1500 /* Week 4 Tumblr Advanced NavigationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Week 4 Tumblr Advanced NavigationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E89DFF51BC8731B00DD1500 /* Week_4_Tumblr_Advanced_NavigationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Week_4_Tumblr_Advanced_NavigationUITests.swift; sourceTree = "<group>"; };
 		6E89DFF71BC8731B00DD1500 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E89E0031BC8763B00DD1500 /* TabBarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
+		6E97E2821BC9B8B400ADCAB1 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		6E97E2841BC9B8DA00ADCAB1 /* SearchViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		6E97E2861BC9B93B00ADCAB1 /* AccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccountViewController.swift; sourceTree = "<group>"; };
+		6E9E156D1BC9C43300AF3A7B /* LogInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +114,13 @@
 				6E89DFD51BC8731B00DD1500 /* AppDelegate.swift */,
 				6E89DFD71BC8731B00DD1500 /* ViewController.swift */,
 				6E89DFD91BC8731B00DD1500 /* Main.storyboard */,
+				6E9E156D1BC9C43300AF3A7B /* LogInViewController.swift */,
+				6E97E2861BC9B93B00ADCAB1 /* AccountViewController.swift */,
+				6E97E2841BC9B8DA00ADCAB1 /* SearchViewController.swift */,
+				6E97E2821BC9B8B400ADCAB1 /* HomeViewController.swift */,
+				6E12AD051BC9AED7000DBCE1 /* ComposeViewController.swift */,
+				6E648EB71BC883C2002EBF0C /* TrendingViewController.swift */,
+				6E89E0031BC8763B00DD1500 /* TabBarViewController.swift */,
 				6E89DFDC1BC8731B00DD1500 /* Assets.xcassets */,
 				6E89DFDE1BC8731B00DD1500 /* LaunchScreen.storyboard */,
 				6E89DFE11BC8731B00DD1500 /* Info.plist */,
@@ -255,8 +276,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E12AD061BC9AED7000DBCE1 /* ComposeViewController.swift in Sources */,
+				6E97E2851BC9B8DA00ADCAB1 /* SearchViewController.swift in Sources */,
+				6E9E156E1BC9C43300AF3A7B /* LogInViewController.swift in Sources */,
+				6E97E2871BC9B93B00ADCAB1 /* AccountViewController.swift in Sources */,
 				6E89DFD81BC8731B00DD1500 /* ViewController.swift in Sources */,
+				6E648EB81BC883C2002EBF0C /* TrendingViewController.swift in Sources */,
+				6E89E0041BC8763B00DD1500 /* TabBarViewController.swift in Sources */,
 				6E89DFD61BC8731B00DD1500 /* AppDelegate.swift in Sources */,
+				6E97E2831BC9B8B400ADCAB1 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -481,6 +509,7 @@
 				6E89DFFC1BC8731B00DD1500 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6E89DFFD1BC8731B00DD1500 /* Build configuration list for PBXNativeTarget "Week 4 Tumblr Advanced NavigationTests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +518,7 @@
 				6E89DFFF1BC8731B00DD1500 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6E89E0001BC8731B00DD1500 /* Build configuration list for PBXNativeTarget "Week 4 Tumblr Advanced NavigationUITests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +527,7 @@
 				6E89E0021BC8731B00DD1500 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
